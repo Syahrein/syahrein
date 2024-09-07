@@ -1,4 +1,4 @@
-## Hey, my name is Syahrein 👋
+## Hi, my name is Syahrein 👋
 
 I am a Data Analyst with a passion for business intelligence and data visualization. I have extensive experience using tools such as Power BI, SQL, and Python for data analysis, data manipulation, and creating interactive dashboards. In addition to my technical skills, I am proficient in leveraging machine learning techniques and advanced analytics to solve complex business problems.
 
